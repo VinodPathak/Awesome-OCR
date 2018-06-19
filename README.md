@@ -1,0 +1,2 @@
+# Awesome-OCR
+OCR Links
